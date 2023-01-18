@@ -1,0 +1,2 @@
+free_geo_ip='your IP free key'#enter there in yor free Ip_key from https://app.ipbase.com/api-keys
+weather_api_key='your IP free key'#enter there in yor free Ip_key from https://home.openweathermap.org/api_keys
